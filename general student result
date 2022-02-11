@@ -1,0 +1,21 @@
+sno=int(input('enter sno'))
+sname=input('enter sname'))
+s1=int(input('enter si marks'))
+s2=int(input('enter s2 marks'))
+s3=int(input('enter s3 marks'))
+total=s1+s2+s3
+avg=total/3
+if avg>=91
+print('o-grade')
+if avg>=81
+print('A-grade')
+if avg>=70
+print('B-grade')
+if avg>=60
+print('c-grade')
+if av>=50
+print('d-grade')
+elif avg>=40
+print('pass')
+else
+print('fail')
